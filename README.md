@@ -1,2 +1,2 @@
 # grouptest
-This is a group test repo. You are feel to play with github here if you are new to it. 
+This is a group test repo. Feel free to play with github here if you are new to it. 
